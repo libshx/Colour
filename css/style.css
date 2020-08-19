@@ -90,6 +90,7 @@ button:hover {
 .flex-bg,
 p,
 h2 {
+   font-size: 12px;
    padding: 10px;
 }
 .box-1 {
