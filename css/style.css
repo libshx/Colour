@@ -1,3 +1,8 @@
+:root {
+   --primary-color: rgba(211, 107, 142, 0.45);
+   --overlay-color: rgba(185, 115, 136, 0.85);
+   --menu-speed: 0.75s;
+}
 * {
    font-family: verdana;
    margin: 0;
